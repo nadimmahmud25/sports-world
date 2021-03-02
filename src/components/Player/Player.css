@@ -1,0 +1,17 @@
+.player-salary {
+    padding: 50px 0;
+}
+
+.player-salary-inner {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.player {
+    width: 60%;
+}
+
+.salary {
+    width: calc(40% - 20px);
+}
