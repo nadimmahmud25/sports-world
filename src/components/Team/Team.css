@@ -1,7 +1,7 @@
-.team-card {
+.team-card{
     background: #fff;
     border-radius: 5px;
-    padding: 9px;
+    padding: 10px;
     position: sticky;
     top: 0;
 }
@@ -21,18 +21,18 @@
 
 .team-table tr td {
     padding: 10px;
-    font-size: 18px;
+    font-size: 15px;
     border: 1px solid #eee;
 }
 
 .team-table tr td:first-child {
     font-family: 'Raleway', sans-serif;
-    color: #444;
-    font-weight: 700;
+    color:black;
+    font-weight: 600;
 }
 
 .team-table tr td:last-child {
-    width: 125px;
-    color: #666;
+    width: 200px;
+    color: skyblue;
     font-weight: 600;
 }
